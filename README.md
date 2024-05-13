@@ -5,6 +5,12 @@ Linux/BSD Mate desktop GTK theme with ~1.5 larger widgets and spaces between the
 
 Theme works... Also, there are still things to fix and improve.
 
+Blue Submarine Original:
+![Blue Submarine Original theme](Blue-Submarine-original.png)
+
+Blue Submarine theme with ~1.5 larger widgets:
+![Blue Submarine theme with ~1.5 larger widgets](Blue-Submarine-original.png)
+
 ## Some tips for theme user
 
 - Increase the Mate panel size (for example to 42 pixels).
