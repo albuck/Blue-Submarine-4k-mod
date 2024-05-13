@@ -9,7 +9,7 @@ Blue Submarine Original:
 ![Blue Submarine Original theme](Blue-Submarine-original.png)
 
 Blue Submarine theme with ~1.5 larger widgets:
-![Blue Submarine theme with ~1.5 larger widgets](Blue-Submarine-original.png)
+![Blue Submarine theme with ~1.5 larger widgets](Blue-Submarine-@1,5.png)
 
 ## Some tips for theme user
 
