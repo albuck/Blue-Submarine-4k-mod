@@ -11,7 +11,7 @@ Theme works... Also, there are still things to fix and improve.
 **Blue Submarine theme with ~1.5 larger widgets (on 28 inch 4k monitor):**
 ![Blue Submarine theme with ~1.5 larger widgets](Blue-Submarine-@1,5.png)
 
-## Some tips for theme user
+## Some tips for theme user:
 
 - Increase the Mate panel size (for example to 42 pixels).
 - Set the correct DPI for the fonts according to the PPI of the monitor.
