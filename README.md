@@ -13,5 +13,7 @@ Theme works... Also, there are still things to fix and improve.
 - icon themes that have colored toolbar icons are better suited for this theme.
 - increase the size of the Firefox scrollbar.
 - for QT applications, put in "/etc/environment":
+```
    QT_QPA_PLATFORMTHEME=qt5ct
    QT_AUTO_SCREEN_SCALE_FACTOR=0
+```
