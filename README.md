@@ -19,8 +19,9 @@ Theme works... Also, there are still things to fix and improve.
 - Increase the size of the mouse pointer.
 - Icon themes that have colored toolbar icons are better suited for this theme.
 - Increase the size of the Firefox scrollbar.
-- For QT applications, put in "/etc/environment":
+- For QT applications install "qt5ct" and "qt5-style-plugins", in QT5 Configuration Tool choose Apperance Style to "gtk2", put in "/etc/environment":
 ```
    QT_QPA_PLATFORMTHEME=qt5ct
    QT_AUTO_SCREEN_SCALE_FACTOR=0
 ```
+(Tested on Linux Debian 12)
