@@ -21,7 +21,7 @@ Theme works... Also, there are still things to fix and improve.
 - Increase the size of the Firefox scrollbar:
 ```
 about:config
-widget.non-native-theme.scrollbar.size.override 24
+widget.non-native-theme.scrollbar.size.override
 ```
 - For QT applications install "qt5ct" and "qt5-style-plugins", in QT5 Configuration Tool choose Apperance Style to "gtk2", put in "/etc/environment":
 ```
