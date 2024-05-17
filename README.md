@@ -11,14 +11,18 @@ Theme works... Also, there are still things to fix and improve.
 **Blue Submarine theme with ~1.5 larger widgets (on 28 inch 4k monitor):**
 ![Blue Submarine theme with ~1.5 larger widgets](Blue-Submarine-@1,5.png)
 
-## Some tips for theme user:
+## Some tips for theme user
 
 - Increase the Mate panel size (for example to 42 pixels).
 - Set the correct DPI for the fonts according to the PPI of the monitor.
 - Increase size of icons in apps menu (use Mate Tweak).
 - Increase the size of the mouse pointer.
 - Icon themes that have colored toolbar icons are better suited for this theme.
-- Increase the size of the Firefox scrollbar.
+- Increase the size of the Firefox scrollbar:
+```
+about:config
+widget.non-native-theme.scrollbar.size.override 24
+```
 - For QT applications install "qt5ct" and "qt5-style-plugins", in QT5 Configuration Tool choose Apperance Style to "gtk2", put in "/etc/environment":
 ```
    QT_QPA_PLATFORMTHEME=qt5ct
