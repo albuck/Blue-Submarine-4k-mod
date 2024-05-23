@@ -90,7 +90,7 @@ style "murrine-default" {
 	GtkMenuBar	::window-dragging		= 2
 	GtkMenu		::horizontal-padding	= 5
 	GtkMenu		::vertical-padding		= 2
-	GtkMenuItem	::horizontal-padding	= 0
+	GtkMenuItem	::horizontal-padding	= 5
 	GtkSeparatorMenuItem	::horizontal-padding	= 10
 
 	WnckTasklist	::fade-overlay-rect	= 0
