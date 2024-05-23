@@ -77,7 +77,7 @@ style "murrine-default" {
 	GtkScale	::trough-side-details	= 2
 
 	GtkExpander	::expander-size			= 24
-	GtkToolbar	::internal-padding		= 0
+	GtkToolbar	::internal-padding		= 5
 	GtkTreeView	::expander-size			= 9
 	GtkTreeView	::indent-expanders		= 2
 	GtkTreeView	::vertical-separator	= 2
@@ -89,7 +89,7 @@ style "murrine-default" {
 	#GtkMenuBar	::shadow-type = GTK_SHADOW_NONE # Makes menus flat and unified.
 	GtkMenuBar	::window-dragging		= 2
 	GtkMenu		::horizontal-padding	= 5
-	GtkMenu		::vertical-padding		= 2
+	GtkMenu		::vertical-padding		= 5
 	GtkMenuItem	::horizontal-padding	= 5
 	GtkSeparatorMenuItem	::horizontal-padding	= 10
 
