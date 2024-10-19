@@ -15,8 +15,9 @@ Theme works... Also, there are still things to fix and improve.
 
 - Set the correct DPI for the fonts according to the PPI of the monitor.
 - Increase the Mate panel size (for example to 42 pixels).
-- Increase size of icons in apps menu (use Mate Tweak).
-- Increase the size of the mouse pointer.
+- Increase the default size of Caja icons up to 150%.
+- Increase icon size in apps menu (use Mate Tweak).
+- Increase mouse pointer size.
 - Icon themes that have colored toolbar icons are better suited for this theme.
 - Increase the size of the Firefox scrollbar:
 ```
