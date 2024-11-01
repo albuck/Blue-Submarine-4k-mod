@@ -1,7 +1,7 @@
 # Blue-Submarine-4k-mod
-GTK theme modification for 28 inch 4k monitor.
+GTK theme modification for 28 and 27 inch 4k monitor.
 
-Linux/BSD Mate desktop GTK theme with ~1.5 larger widgets and spaces between them for 28 inch 4k resolution (DPI/PPI=157) monitor. It should work for other monitors with a similar resolution (DPI/PPI).
+Linux/BSD Mate desktop GTK theme with ~1.5 larger widgets and spaces between them for 28/27 inch 4k resolution (PPI=157/163) monitor. It should work for other monitors with a similar resolution (DPI/PPI).
 
 Theme works... Also, there are still things to fix and improve.
 
@@ -13,7 +13,7 @@ Theme works... Also, there are still things to fix and improve.
 
 ## Some tips for theme user
 
-- Set the correct DPI for the fonts according to the PPI of the monitor.
+- Set the correct DPI for the fonts according to the PPI of the monitor (DPI=PPI).
 - Increase the Mate panel size (for example to 42 pixels).
 - Increase the default size of Caja icons up to 150%.
 - Increase icon size in apps menu (use Mate Tweak).
