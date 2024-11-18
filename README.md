@@ -24,6 +24,7 @@ Theme works... Also, there are still things to fix and improve.
 about:config
 widget.non-native-theme.scrollbar.size.override
 ```
+- For Chromium add (use Mozo Menu Editor) Execution parameter ```--force-device-scale-factor=1.5```
 - For QT applications install "qt5ct" and "qt5-style-plugins", in QT5 Configuration Tool choose Apperance Style to "gtk2", put in "/etc/environment":
 ```
    QT_QPA_PLATFORMTHEME=qt5ct
